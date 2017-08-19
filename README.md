@@ -1,7 +1,8 @@
 # github
 to do :
 <br>- CRUD
-<br>- fix exceptions
-<br>- procfile config
+<br>- fix exceptions viewer
+<br>- heroku environment
 <br>- clearDB config
+<br>- messenger func()
 
